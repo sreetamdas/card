@@ -1,20 +1,20 @@
 {
-  "name": "mxstbr",
+  "name": "sreetamdas",
   "version": "1.0.1",
-  "description": "Max Stoiber (@mxstbr)'s business card",
+  "description": "Sreetam Das (@sreetamdas)'s business card",
   "main": "index.js",
   "bin": {
-    "mxstbr": "./bin/card.js"
+    "sreetamdas": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mxstbr/businesscard.git"
+    "url": "https://github.com/sreetamdas/businesscard.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Max Stoiber",
+  "author": "Sreetam Das",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
