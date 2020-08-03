@@ -15,8 +15,8 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white('Sreetam Das /'),
-  handle: chalk.cyan.bold('sreetamdas'),
-  work: chalk.white('Backend Developer at Microland'),
+  handle: chalk.cyan.bold('@sreetamdas'),
+  work: chalk.white('Module Lead for Frontend at Microland'),
   twitter: chalk.cyan('twitter.com/_SreetamDas'),
   github: chalk.cyan('github.com/sreetamdas'),
   linkedin: chalk.cyan('linkedin.com/in/sreetamdas'),
